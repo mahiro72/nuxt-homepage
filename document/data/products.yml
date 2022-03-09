@@ -1,0 +1,16 @@
+products:
+  -
+    title: app1
+    date: 2021/1
+    description: aaaaaaa
+    link: https://google.com
+  -
+    title: app2
+    date: 2021/2
+    description: bbbbbbb
+    link: https://google.com
+  -
+    title: app3
+    date: 2021/3
+    description: ccccccc
+    link: https://google.com

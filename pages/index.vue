@@ -1,11 +1,28 @@
 <template>
-  <Tutorial/>
+	<div>
+		<Header />
+		<AboutMe />
+		<ProductList />
+		<ArchiveList />
+		<Footer />
+	</div>
 </template>
 
-<script lang="ts">
-import Vue from 'vue'
+<script >
+import Header from '@/components/Header.vue';
+import AboutMe from '@/components/AboutMe.vue';
+import ProductList from '~/components/Product/ProductList.vue';
+import Footer from '@/components/Footer.vue';
+import ArchiveList from '~/components/Archive/ArchiveList.vue';
 
-export default Vue.extend({
-  name: 'IndexPage'
-})
+export default {
+  name: 'IndexPage',
+  components:{
+	  Header,
+	  AboutMe,
+	  ProductList,
+	  Footer,
+	  ArchiveList,
+  },
+}
 </script>
