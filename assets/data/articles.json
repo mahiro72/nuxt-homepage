@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "title": "SQL100本ノックの環境構築と少し実践!🐘",
+      "date": "2022年02月04日",
+      "description": "この記事では Windows でSQL100本ノックをするための環境構築と実際の問題を少し解説した記事です。ほかにも注意事項などいくつか書いてあります！",
+      "link": "https://qiita.com/mahiro72/items/f468c0450f4ccecc300a"
+    },
+    {
+      "title": "2021年を振り返って",
+      "date": "2021年12月29日",
+      "description": "初めまして、mahiroです。プログラミングを初めて1年少し経ちました（あっという間だった...)2021年も終わりということで区切りがいいのでプログラミングを始めてから(2020/9)これまでにやったことをまとめようかなと思います。",
+      "link": "https://zenn.dev/sino_429/articles/84832d9f2435fb"
+    },
+    {
+      "title": "[golang error]go: gopkg.in/yaml.v2@v2.2.2: unknown revision v2.2.2を解決した話",
+      "date": "2022年01月08日",
+      "description": "Dockerでgolangとmysqlの環境構築のgolang error",
+      "link": "https://qiita.com/mahiro72/items/6f87867fb057210308d3"
+    },
+    {
+      "title": "[python] [cx_Oracle.DatabaseError: DPI-1047: Cannot locate a 64-bit Oracle Client library] が起きた時の対処法３選",
+      "date": "2021年10月15日",
+      "description": "pythonとcx_Oracleを使ってデータベースに接続する際に起きたエラー",
+      "link": "https://qiita.com/mahiro72/items/1d5384a6e503d3d585dd"
+    }
+  ]
+}

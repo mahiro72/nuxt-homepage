@@ -1,0 +1,25 @@
+careers:
+  -
+    name: 株式会社ソウ
+    year: 2021
+    month: 4
+    category: インターン
+    description: Djangoとスクレイピングを使ってアプリ作成しました.
+  -
+    name: 株式会社ソウ
+    year: 2021
+    month: 5~7
+    category: 業務委託
+    description: 初めてのお仕事でした.こちらもDjangoをメインに開発しました.
+  -
+    name: Cookpad Summer Internship 2021
+    year: 2021
+    month: 9
+    category: インターン
+    description: RubyやGraphQLを学びました.
+  -
+    name: チームラボ株式会社
+    year: 2022
+    month: 3
+    category: インターン
+    description: 来週から始まります.頑張る!!
