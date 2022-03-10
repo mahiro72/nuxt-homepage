@@ -29,7 +29,6 @@ export default {
 			description:String,
 			link:String,
 		},
-		test:String,
 	}
 }
 </script>

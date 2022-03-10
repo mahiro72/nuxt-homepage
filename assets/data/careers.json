@@ -1,0 +1,25 @@
+{
+  "careers": [
+    {
+      "name": "company1",
+      "year": 2021,
+      "month": 1,
+      "category": "インターン",
+      "description": "aaaaaaa"
+    },
+    {
+      "name": "company2",
+      "year": 2021,
+      "month": 2,
+      "category": "インターン",
+      "description": "aaaaaaa"
+    },
+    {
+      "name": "company3",
+      "year": 2021,
+      "month": 3,
+      "category": "インターン",
+      "description": "aaaaaaa"
+    }
+  ]
+}

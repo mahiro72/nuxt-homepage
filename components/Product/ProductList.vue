@@ -32,8 +32,5 @@ export default {
 			products: json.products,
 		}
 	},
-	mounted(){
-		console.log('####',json.products);
-	}
 }
 </script>
