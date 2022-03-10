@@ -6,7 +6,7 @@
 		</div>
 		<div class="flex-grow pl-6">
 			<h2 class="tracking-widest text-xs title-font font-medium text-indigo-600 mb-1">{{ info.category }}</h2>
-			<h1 class="title-font text-xl font-medium text-white mb-3">{{ info.title }}</h1>
+			<h1 class="title-font text-xl font-medium text-gray-700 mb-3">{{ info.name }}</h1>
 			<p class="leading-relaxed text-gray-600 mb-2">{{ info.description }}</p>
 		</div>
 	</div>

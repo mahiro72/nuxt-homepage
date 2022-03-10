@@ -1,14 +1,18 @@
 <template>
-<section class="text-gray-600 body-font">
+<section class="text-gray-600 body-font text-center" id="skil">
   	<div class="container px-5 py-24 mx-auto">
 
 		<h1 class="sm:text-3xl text-4xl font-medium title-font mb-2 text-gray-900">Skils</h1>
-
-		<div class="container px-5 py-4 mx-auto">
+		<p>
+			使ったことのある技術です. <br>
+			この中ではGolangやPythonでサーバーサイドを触ることが多いです. <br>
+			最近はフロントエンドにも興味があり, vueやNuxtを勉強しています. <br>
+		</p>
+		<div class="container px-5 py-8 ">
 			
-			<div>
-				<h5 align="left">FrontEnd</h5>
-				<div class="flex p-2 mb-4">
+			<div class="mb-8">
+				<h5 class="text-center sm:text-2xl text-3xl">FrontEnd</h5>
+				<div class="flex p-2 mb-4 justify-center">
 					<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 						<img class="m-2"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 					</a> 
@@ -25,13 +29,24 @@
 					<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
 						<img class="m-2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 					</a> 
+
+					<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+						<img class="m-2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+					</a> 
+
+					<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
+						<img class="m-2" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
+					</a> 
+
 				</div>
+				
+				
 			</div>
 
 
-			<div>
-				<h5 align="left">ServerSide</h5>
-				<div class="flex p-2 mb-4">
+			<div class="mb-8">
+				<h5 class="text-center sm:text-2xl text-3xl">ServerSide</h5>
+				<div class="flex p-2 mb-4 justify-center">
 					
 					<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 						<img class="m-2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -60,9 +75,9 @@
 				</div>
 			</div>
 		
-			<div>
-				<h5 align="left">Others</h5>
-				<div class="flex p-2">
+			<div >
+				<h5 class="text-center sm:text-2xl text-3xl">Infrastructure</h5>
+				<div class="flex p-2 justify-center">
 					<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 						<img class="m-2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 					</a> 
@@ -82,14 +97,13 @@
 					<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 						<img class="m-2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 					</a> 
+
+					<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+						<img class="m-2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+					</a> 
 				</div>
 			</div>
-
-
 		</div>
-
-
-
 
   	</div>
 </section>

@@ -12,9 +12,19 @@
 							<h2 class="font-medium title-font text-gray-600 text-lg">(mahiro yoshie)</h2>
 							<div class="w-12 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
 							<p class="text-base">
-								Kyoto / Japan <br>
-								Doshisha Univ. <br>
-								Do'er (@du_doer) <br>
+								Kyoto / Japan 
+								<br>
+								Doshisha Univ. 
+								<br>
+								Do'er (
+								<a 
+								class="text-indigo-700" 
+								href="https://twitter.com/du_doer">
+								@du_doer
+								</a>
+								)
+								<br>
+
 							</p>
 						</div>
 					</div>
@@ -24,21 +34,44 @@
 						<p class="leading-relaxed text-lg mb-4">
 							
 							
-							Hi, I'm mahiro. 
-							I'm a hobby web developer. <br>
-							Recently interested in golang and vue. <br>
+							Hi, I'm mahiro. <br>
+							I do web development and competitive pro as a hobby.<br>
+							Also, this site is built with Nuxt.<br><br>
+							こんにちは, mahiroです. <br>
+							趣味でweb開発や競プロをやってます. <br>
+							またこのサイトはNuxtで作られています.<br><br>
+						
+							Twitter: 
+							<a 
+								class="text-indigo-700" 
+								href="https://twitter.com/sino0042900">
+								@sino0042900 
+							</a>
 							<br>
-							twitter: @sino0042900 <br>
-							github: mahiro72 <br>
-							mail: mahiro.yoshie@gmail.com <br>
+							Github: 
+							<a 
+								class="text-indigo-700" 
+								href="https://github.com/mahiro72">
+								mahiro72
+							</a>
+							
+							<br>
+							Mail: mahiro.yoshie@gmail.com 
+							<br>
+							LinkdIn: 
+							<a 
+								class="text-indigo-700" 
+								href="https://www.linkedin.com/in/mahiro-yoshie-15a8b9230/">
+								mahiro yoshie
+							</a>
 							
 
 						</p>
-						<a class="text-indigo-500 inline-flex items-center">Learn More
+						<!-- <a class="text-indigo-500 inline-flex items-center">Learn More
 							<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
 							<path d="M5 12h14M12 5l7 7-7 7"></path>
 							</svg>
-						</a>
+						</a> -->
 					</div>
 				</div>
 			</div>

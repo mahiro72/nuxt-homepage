@@ -1,5 +1,5 @@
 <template>
-	<div class="bg-blue-900">
+	<div class="bg-blue-900" id="product">
 		<div class="container px-5 py-20 mx-auto">
 			<p class="text-gray-100 text-4xl">Products</p>
 			<section class="text-gray-300 body-font">
