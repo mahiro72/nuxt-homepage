@@ -4,6 +4,7 @@
 		<AboutMe />
 		<CareerList />
 		<ProductList />
+		<Skils />
 		<ArchiveList />
 		<Footer />
 	</div>
@@ -16,6 +17,7 @@ import ProductList from '~/components/Product/ProductList.vue';
 import Footer from '@/components/Footer.vue';
 import ArchiveList from '~/components/Archive/ArchiveList.vue';
 import CareerList from '@/components/Career/CareerList.vue'
+import Skils from '@/components/Skils.vue'
 
 export default {
   name: 'IndexPage',
@@ -26,6 +28,7 @@ export default {
 	  Footer,
 	  ArchiveList,
 	  CareerList,
+	  Skils,
   },
 }
 </script>
