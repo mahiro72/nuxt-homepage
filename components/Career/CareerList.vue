@@ -1,7 +1,7 @@
 <template>
 	<div class="bg-blue-100">
-		<div class="container px-5 py-24 mx-auto">
-			<p class="text-gray-600 text-5xl">Careers</p>
+		<div class="container px-5 py-20 mx-auto">
+			<p class="text-gray-600 text-4xl">Careers</p>
 			<section class="text-gray-300 body-font">
 				<div class="flex flex-wrap" v-for="(c,c_idx) in careers" :key="c_idx">
 					<Career :info="{name: c.title, 
