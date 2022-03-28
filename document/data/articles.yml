@@ -1,5 +1,15 @@
 articles:
   -
+    title: 'Googleで記号を検索する際のコツ'
+    date:  2022年03月24日
+    description: この記事では, 検索できない記号を調べるときのちょっとしたコツを書きます 自分も以前は記号を検索するのに一苦労してました....
+    link: https://qiita.com/mahiro72/items/3c3097d89d31a26719e3
+  -
+    title: '42TokyoのPiscineを合格した話🗼'
+    date:  2022年3月22日
+    description: はじめまして,mahiroです この記事では2022/2に参加した42TokyoのPiscineを泳ぎ切った感想 や 合格の秘訣 を書いていきます
+    link: https://note.com/sino_72/n/n8f1b5344925b
+  -
     title: 'SQL100本ノックの環境構築と少し実践!🐘'
     date:  2022年02月04日
     description: この記事では Windows でSQL100本ノックをするための環境構築と実際の問題を少し解説した記事です。ほかにも注意事項などいくつか書いてあります！
