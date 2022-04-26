@@ -29,7 +29,8 @@ yarn dev
 ## memo
 ### 追加したい機能
 
-- contactformの完成
+- contactページ
+- statisticsページ
 
 
 ## Reference
