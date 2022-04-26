@@ -12,8 +12,8 @@
       "title": "Engineer Tree",
       "year": 2021,
       "month": 11,
-      "category": "ハッカソン / 最優秀賞受賞👑",
-      "description": "プログラミングの勉強時間と比例して木が成長するアプリ  技育camp vol.11",
+      "category": "ハッカソン / 最優秀賞👑",
+      "description": "プログラミングの勉強時間と比例して木が成長するアプリ (技育camp vol.11)",
       "link": "https://react-et.vercel.app/"
     },
     {
@@ -21,7 +21,7 @@
       "year": 2022,
       "month": 1,
       "category": "ハッカソン / 努力賞👑",
-      "description": "エンジニア向け掲示板  自分はサーバーサイドを担当しました  技育camp vol.13",
+      "description": "エンジニア向け掲示板, 自分はサーバーサイドを担当しました (技育camp vol.13)",
       "link": "#"
     },
     {
@@ -37,7 +37,7 @@
       "year": 2022,
       "month": 4,
       "category": "コンテスト / 1位👑",
-      "description": "バックエンドのパフォーマンスチューニングコンテスト  自分はSQLの高速化を担当しました",
+      "description": "バックエンドのパフォーマンスチューニングコンテスト, 自分はSQLの高速化を担当しました",
       "link": "https://github.com/mahiro72/42HoursTuningTheBackend"
     }
   ]
