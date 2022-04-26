@@ -1,5 +1,15 @@
 articles:
   -
+    title: 'そもそもURLってなんだっけ...?'
+    date:  2022年04月01日
+    description: この記事では, 初心者向けにURLについてまとめた記事になってます 以下のような方におすすめです なんとなくわかるけど, うまく説明できない...
+    link: https://qiita.com/mahiro72/items/b52a6514067ac514fdfd
+  -
+    title: '42TokyoのPiscineを合格した話🗼'
+    date:  2022年3月22日
+    description: はじめまして,mahiroです この記事では2022/2に参加した42TokyoのPiscineを泳ぎ切った感想 や 合格の秘訣 を書いていきます...
+    link: https://note.com/sino_72/n/n8f1b5344925b
+  -
     title: 'Googleで記号を検索する際のコツ'
     date:  2022年03月24日
     description: この記事では, 検索できない記号を調べるときのちょっとしたコツを書きます 自分も以前は記号を検索するのに一苦労してました....

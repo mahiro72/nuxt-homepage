@@ -52,7 +52,7 @@
 					</div>
 					<h2 class="text-lg text-gray-900 font-medium title-font mb-2">My wish list</h2>
 					<p class="leading-relaxed text-base">
-						技術系の欲しい本がいっぱいあります...
+						技術系の欲しい本がいっぱいあります 📚
 						<br><br>
 					</p>
 				</div>

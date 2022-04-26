@@ -5,32 +5,40 @@
       "year": 2021,
       "month": 7,
       "category": "業務委託",
-      "description": "pythonの求人をまとめてあり, 転職をサポートするサイト (現在は使えないみたい?)",
+      "description": "pythonの求人をまとめてあり, 転職をサポートするサイト",
       "link": "https://agent.hosl.dev/"
     },
     {
       "title": "Engineer Tree",
       "year": 2021,
       "month": 11,
-      "category": "ハッカソン",
-      "description": "プログラミングの勉強時間と比例して木が成長するアプリ. 技育camp vol.11で最優秀賞受賞.",
+      "category": "ハッカソン / 最優秀賞👑",
+      "description": "プログラミングの勉強時間と比例して木が成長するアプリ (技育camp vol.11)",
       "link": "https://react-et.vercel.app/"
     },
     {
       "title": "Tiqa (ティッカ)",
       "year": 2022,
       "month": 1,
-      "category": "ハッカソン",
-      "description": "エンジニア向け掲示板. 技育camp vol.13で努力賞. 自分はサーバーサイドを担当しました.",
-      "link": "https://google.com"
+      "category": "ハッカソン / 努力賞👑",
+      "description": "エンジニア向け掲示板, 自分はサーバーサイドを担当しました (技育camp vol.13)",
+      "link": "#"
     },
     {
-      "title": "Pixel Drive",
+      "title": "Jobhunt navi",
       "year": 2022,
-      "month": 13,
-      "category": "ハッカソン",
-      "description": "pioneerのハッカソン. 移動距離を計測しピクセルアートを生成するアプリ. 自分はフロントエンドを担当しました.",
-      "link": "https://github.com/Yu-Muro/pioneer_hackathon"
+      "month": 4,
+      "category": "個人製作",
+      "description": "就職活動のイロハをまとめたサイト",
+      "link": "http://jobhunt-navi.com/"
+    },
+    {
+      "title": "42HoursTuningTheBackend",
+      "year": 2022,
+      "month": 4,
+      "category": "コンテスト / 1位👑",
+      "description": "バックエンドのパフォーマンスチューニングコンテスト, 自分はSQLの高速化を担当しました",
+      "link": "https://github.com/mahiro72/42HoursTuningTheBackend"
     }
   ]
 }
