@@ -24,6 +24,14 @@
 								</a>
 								)
 								<br>
+								42Tokyo (
+								<a 
+								class="text-indigo-700" 
+								href="https://twitter.com/42_tokyo">
+								@42Tokyo
+								</a>
+								)
+								<br>
 
 							</p>
 						</div>
@@ -33,14 +41,14 @@
 						<br>
 						<p class="leading-relaxed text-lg mb-4">
 							
-							
-							Hi, I'm mahiro. <br>
-							I do web development and competitive pro as a hobby.<br>
-							Also, this site is built with Nuxt.<br><br>
-							こんにちは, mahiroです. <br>
-							趣味でweb開発や競プロをやってます. <br>
-							またこのサイトはNuxtで作られています.<br><br>
-						
+							こんにちは, mahiroです <br>
+							趣味でweb開発や競プロをやってます <br>
+							最近はCS(コンピュータサイエンス)を学んでいます <br>
+							<br>
+							就職活動は終了しましたが, エンジニアとしてのインターンやアルバイトにとても興味があります！！ <br>
+							ご連絡お待ちしております &#128583; <br>
+							<br>
+
 							Twitter: 
 							<a 
 								class="text-indigo-700" 
@@ -64,14 +72,7 @@
 								href="https://www.linkedin.com/in/mahiro-yoshie-15a8b9230/">
 								mahiro yoshie
 							</a>
-							
-
 						</p>
-						<!-- <a class="text-indigo-500 inline-flex items-center">Learn More
-							<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-							<path d="M5 12h14M12 5l7 7-7 7"></path>
-							</svg>
-						</a> -->
 					</div>
 				</div>
 			</div>
