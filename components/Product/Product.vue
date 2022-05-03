@@ -8,7 +8,7 @@
 			<h2 class="tracking-widest text-xs title-font font-medium text-indigo-200 mb-1">{{ info.category }}</h2>
 			<h1 class="title-font text-xl font-medium text-white mb-3">{{ info.title }}</h1>
 			<p class="leading-relaxed mb-2">{{ info.description }}</p>
-			<a class="text-indigo-400 inline-flex items-center" :href="`${info.link}`">view app
+			<a class="text-indigo-400 inline-flex items-center" :href="`${info.link}`">view
 				<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
 					<path d="M5 12h14M12 5l7 7-7 7"></path>
 				</svg>
