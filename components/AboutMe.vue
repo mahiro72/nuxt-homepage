@@ -35,7 +35,7 @@
 								Twitter (
 								<a 
 								class="text-indigo-700" 
-								href="https://twitter.com/42_tokyo">
+								href="https://twitter.com/sino0042900">
 								@sino0042900 
 								</a>
 								)
