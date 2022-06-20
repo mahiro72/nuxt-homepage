@@ -72,37 +72,11 @@
 							趣味でweb開発や競プロをやってます <br>
 							最近はCS(コンピュータサイエンス)を学んでいます <br>
 							<br>
-							エンジニア歴１年半のひよっこエンジニアですが <br>
-							成長意欲は人一倍あります！ <br>
 							技術と、技術を使ってユーザーに良い体験を届けることが好きです <br>
 							<br>
 							就職活動は終了しましたが, エンジニアとしてのインターンやアルバイトにとても興味があります！！ <br>
 							ご連絡お待ちしております 🙇 <br>
 							<br>
-
-							<!-- Twitter: 
-							<a 
-								class="text-indigo-700" 
-								href="https://twitter.com/sino0042900">
-								@sino0042900 
-							</a>
-							<br>
-							Github: 
-							<a 
-								class="text-indigo-700" 
-								href="https://github.com/mahiro72">
-								mahiro72
-							</a>
-							
-							<br>
-							Mail: mahiro.yoshie@gmail.com 
-							<br>
-							LinkdIn: 
-							<a 
-								class="text-indigo-700" 
-								href="https://www.linkedin.com/in/mahiro-yoshie-15a8b9230/">
-								mahiro yoshie
-							</a> -->
 						</p>
 					</div>
 				</div>
