@@ -49,3 +49,10 @@ products:
     category: コンテスト / 1位👑
     description: バックエンドのパフォーマンスチューニングコンテスト, 自分はSQLの高速化を担当しました
     link: https://github.com/mahiro72/42HoursTuningTheBackend
+  -
+    title: okashi omikuzi (おかしおみくじ🍩)
+    year: 2022
+    month: 6
+    category: ハッカソン / 努力賞👑
+    description: おかし×おみくじ アプリ サーバーサイド、インフラ、フロントのロジックを少し(技育camp vol.4)
+    link: "https://okashi-omikuzi.vercel.app/"
