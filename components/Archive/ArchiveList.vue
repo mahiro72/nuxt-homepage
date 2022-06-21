@@ -69,7 +69,7 @@
 					</div>
 					<h2 class="text-lg text-gray-900 font-medium title-font mb-2">Hatena Blog</h2>
 					<p class="leading-relaxed text-base">
-						振り返り記事を定期的に書いています 
+						振り返り記事や読書の備忘録を書いています 
 						<br><br>
 					</p>
 				</div>
