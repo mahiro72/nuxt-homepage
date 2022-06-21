@@ -1,5 +1,40 @@
 articles:
   -
+    title: '技育CAMP vol.4ハッカソン感想戦'
+    date: 2022年6月21日
+    description: はじめまして, mahiroです今回はハッカソンの感想記事を書こうと思いますー！...
+    link: https://note.com/sino_72/n/n7102ad343284
+  -
+    title: '振り返り ( 2022/5 )'
+    date:  2022年06月02日
+    description: こんにちは、mahiroです 今月の振り返り記事をゆるりと書いていきます...
+    link: https://mahiro72.hatenablog.com/entry/2022/06/02/191304
+  -
+    title: '【備忘録】Java本格入門 Part1'
+    date: 2022年05月28日
+    description: この記事は「Java本格入門」を読んで 忘れそうなことや重要だったことのメモです...
+    link: https://mahiro72.hatenablog.com/entry/2022/05/28/204058
+  -
+    title: '【備忘録】詳説 Cポインタ'
+    date:  2022年05月21日
+    description: この記事は「詳説 Cポインタ」を読んで忘れそうなことや重要だったことのメモです...
+    link: https://mahiro72.hatenablog.com/entry/2022/05/21/190402
+  -
+    title: '【備忘録】ネットワークはなぜつながるのか'
+    date:  2022年05月14日
+    description: この記事は「ネットワークはなぜつながるのか」を読んで 忘れそうなことや重要だったことのメモです...
+    link: https://mahiro72.hatenablog.com/entry/2022/05/14/191117
+  -
+    title: 'Golangのappend()の実装とパフォーマンスについて'
+    date:  2022年05月05日
+    description: この記事について appned()の裏側の実装、またパフォーマンスについての調査です...
+    link: https://qiita.com/mahiro72/items/475ff4f26680d73e219e
+  -
+    title: '振り返り ( 2022/4 )'
+    date:  2022年05月02日
+    description: こんにちは、mahiroです 今月の振り返り記事をゆるりと書いていきます...
+    link: https://mahiro72.hatenablog.com/entry/2022/05/02/001357
+  -
     title: 'そもそもURLってなんだっけ...?'
     date:  2022年04月01日
     description: この記事では, 初心者向けにURLについてまとめた記事になってます 以下のような方におすすめです なんとなくわかるけど, うまく説明できない...
@@ -14,11 +49,6 @@ articles:
     date:  2022年03月24日
     description: この記事では, 検索できない記号を調べるときのちょっとしたコツを書きます 自分も以前は記号を検索するのに一苦労してました....
     link: https://qiita.com/mahiro72/items/3c3097d89d31a26719e3
-  -
-    title: '42TokyoのPiscineを合格した話🗼'
-    date:  2022年3月22日
-    description: はじめまして,mahiroです この記事では2022/2に参加した42TokyoのPiscineを泳ぎ切った感想 や 合格の秘訣 を書いていきます
-    link: https://note.com/sino_72/n/n8f1b5344925b
   -
     title: 'SQL100本ノックの環境構築と少し実践!🐘'
     date:  2022年02月04日
