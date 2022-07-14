@@ -20,7 +20,7 @@
       "title": "Tiqa (ティッカ)",
       "year": 2022,
       "month": 1,
-      "category": "ハッカソン / 努力賞👑",
+      "category": "ハッカソン / 努力賞🏆",
       "description": "エンジニア向け掲示板, 自分はサーバーサイドを担当しました (技育camp vol.13)",
       "link": "#"
     },
@@ -52,9 +52,17 @@
       "title": "okashi omikuzi (おかしおみくじ🍩)",
       "year": 2022,
       "month": 6,
-      "category": "ハッカソン / 努力賞👑",
+      "category": "ハッカソン / 努力賞🏆",
       "description": "おかし×おみくじ アプリ サーバーサイド、インフラ、フロントのロジックを少し(技育camp vol.4)",
       "link": "https://okashi-omikuzi.vercel.app/"
+    },
+    {
+      "title": "Meet Hack",
+      "year": 2022,
+      "month": 7,
+      "category": "ハッカソン / 最優秀賞👑",
+      "description": "交流会を最初から最後までサポートするアプリ サーバーサイド、インフラ、フロントのロジック,デザイン(技育camp vol.5)",
+      "link": "https://meet-hack.vercel.app/"
     }
   ]
 }
